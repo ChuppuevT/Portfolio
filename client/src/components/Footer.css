@@ -1,0 +1,20 @@
+.main-footer {
+    color: white;
+    background-color: #31373e;
+    padding-top: 2em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+
+a.foot{
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 30px;
+}  
+
+p{
+    position: relative;
+    margin-left: 20%;
+}

@@ -1,0 +1,19 @@
+.photo {
+    width: 350px;
+    height: 500px;
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.page-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content-wrap {
+    flex: 1;
+}

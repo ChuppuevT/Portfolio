@@ -1,0 +1,30 @@
+.mag {
+    margin-left: 20px;
+}
+
+.end {
+    margin-top: 10px;
+    margin-left: 28%;
+    width: 150px;
+}
+
+h6{
+    margin-top: 5px;
+    margin-left: 30%;
+}
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    
+}
+
+.page-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content-wrap {
+    flex: 1;
+}
